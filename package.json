@@ -1,0 +1,17 @@
+{
+  "name": "blockprice",
+  "version": "1.0.0",
+  "description": "an app that shows realtime prices of different cryptocurrencies.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kreamtea",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
